@@ -1,11 +1,5 @@
-﻿Vernier Format 2
-Untitled.cmbl 10/13/2026 13:20:03 .
-Latest
-Time	Potential 1	Potential 2
-t	Pot 1	Pot 2
-s	V	V
-
-0	-10	0.454406738281
+﻿time potential_1 potential_2
+0   -10 0.454406738281
 0.1	-10	0.454406738281
 0.2	-10	0.454406738281
 0.3	-10	0.448303222656
